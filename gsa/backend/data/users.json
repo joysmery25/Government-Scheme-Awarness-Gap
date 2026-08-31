@@ -1,0 +1,25 @@
+[
+    {
+        "id": "user-1",
+        "username": "user",
+        "password": "user123",
+        "profile": {
+            "fullName": "John Doe",
+            "age": 35,
+            "gender": "Male",
+            "occupation": "Farmer",
+            "annualIncome": 50000,
+            "state": "Andhra Pradesh",
+            "district": "Guntur",
+            "education": "High School",
+            "category": "General",
+            "student": false,
+            "farmer": true,
+            "seniorCitizen": false,
+            "disabled": false,
+            "widow": false,
+            "governmentEmployee": false,
+            "bplApl": "BPL"
+        }
+    }
+]
